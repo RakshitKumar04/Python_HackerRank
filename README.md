@@ -7,3 +7,10 @@ Practice for the language proficiency in Python on HackerRank.
 - ### Arithmetic Operators
 - ### Python: Division
 - ### Loops
+- ### Alphabetic Rangoli
+- ### Capitalize
+- ### Collection Counter
+- ### Design Door Mat
+- ### Intertools Product
+- ### Polar Cordinates
+- ### String Formatting
